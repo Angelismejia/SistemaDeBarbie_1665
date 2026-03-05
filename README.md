@@ -36,7 +36,7 @@ Este proyecto es una **aplicación web en PHP** creada para registrar personajes
 
 ## Tecnologías usadas
 - PHP puro
-- HTML / CSS (Bootstrap o Tailwind opcional)
+- HTML / CSS 
 - JavaScript (Chart.js para gráficos)
 
 ## Autor
